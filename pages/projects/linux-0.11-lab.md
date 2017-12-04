@@ -1,6 +1,6 @@
 ---
 title: 'Linux 0.11 实验环境'
-tagline: '可快速构建，支持Docker/Qemu/Bochs/Ubuntu/OS X/Windows'
+tagline: '可快速构建，支持 Docker, Qemu, Bochs, Ubuntu, Mac OSX, Windows'
 author: Wu Zhangjin
 layout: page
 permalink: /linux-0.11-lab/
@@ -28,7 +28,8 @@ tags:
           * [添加一个新的系统调用](http://showterm.io/4b628301d2d45936a7f8a)
       * [视频演示](http://showdesk.io/50bc346f53a19b4d1f813b428b0b7b49)
 
-  * 代码仓库：[https://github.com/tinyclub/linux-0.11-lab.git][3]
+  * 代码仓库
+      * [https://github.com/tinyclub/linux-0.11-lab.git][3]
 
   * 基本特性：
       * 包含所有可用的映像文件: ramfs/floppy/hard disk image。

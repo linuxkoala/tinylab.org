@@ -1,6 +1,6 @@
 ---
 title: 'Linux 内核实验环境'
-tagline: '可快速构建，支持Docker/Qemu/Ubuntu/OS X/Windows/Web'
+tagline: '可快速构建，支持 Docker, Qemu, Ubuntu, Mac OSX, Windows, Web'
 author: Wu Zhangjin
 layout: page
 permalink: /linux-lab/
@@ -41,7 +41,8 @@ tags:
           * [Linux 进阶用法](https://v.qq.com/x/page/y0543o6zlh5.html)
           * [Uboot 基本用法](https://v.qq.com/x/page/l0549rgi54e.html)
 
-  * 代码仓库：[https://github.com/tinyclub/linux-lab.git][3]
+  * 代码仓库
+      * [https://github.com/tinyclub/linux-lab.git][3]
 
   * 基本特性：
       * Qemu 支持的大量虚拟开发板，统统免费，免费，免费。
